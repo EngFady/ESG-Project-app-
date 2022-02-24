@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "697174665563",
+    "firebase_url": "https://bycrash-f16c4-default-rtdb.firebaseio.com",
+    "project_id": "bycrash-f16c4",
+    "storage_bucket": "bycrash-f16c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697174665563:android:38e46065834f22a5b9127e",
+        "android_client_info": {
+          "package_name": "com.example.bullet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697174665563-s8ork1ch7mmf1rlpe728jplbhfv6c043.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSmKK31hZ_M2_Lveivr1N-YhQTY_n_U7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697174665563-s8ork1ch7mmf1rlpe728jplbhfv6c043.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
